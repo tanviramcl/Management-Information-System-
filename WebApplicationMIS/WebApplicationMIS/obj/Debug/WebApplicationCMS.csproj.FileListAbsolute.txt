@@ -1,0 +1,177 @@
+c:\users\tanvir\documents\visual studio 2015\Projects\WebApplicationCMS\WebApplicationCMS\bin\ApplicationInsights.config
+c:\users\tanvir\documents\visual studio 2015\Projects\WebApplicationCMS\WebApplicationCMS\bin\roslyn\csc.exe
+c:\users\tanvir\documents\visual studio 2015\Projects\WebApplicationCMS\WebApplicationCMS\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\tanvir\documents\visual studio 2015\Projects\WebApplicationCMS\WebApplicationCMS\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\tanvir\documents\visual studio 2015\Projects\WebApplicationCMS\WebApplicationCMS\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\tanvir\documents\visual studio 2015\Projects\WebApplicationCMS\WebApplicationCMS\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\tanvir\documents\visual studio 2015\Projects\WebApplicationCMS\WebApplicationCMS\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\tanvir\documents\visual studio 2015\Projects\WebApplicationCMS\WebApplicationCMS\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\tanvir\documents\visual studio 2015\Projects\WebApplicationCMS\WebApplicationCMS\bin\roslyn\System.Collections.Immutable.dll
+c:\users\tanvir\documents\visual studio 2015\Projects\WebApplicationCMS\WebApplicationCMS\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\tanvir\documents\visual studio 2015\Projects\WebApplicationCMS\WebApplicationCMS\bin\roslyn\vbc.exe
+c:\users\tanvir\documents\visual studio 2015\Projects\WebApplicationCMS\WebApplicationCMS\bin\roslyn\VBCSCompiler.exe
+c:\users\tanvir\documents\visual studio 2015\Projects\WebApplicationCMS\WebApplicationCMS\bin\roslyn\VBCSCompiler.exe.config
+c:\users\tanvir\documents\visual studio 2015\Projects\WebApplicationCMS\WebApplicationCMS\bin\WebApplicationCMS.dll.config
+c:\users\tanvir\documents\visual studio 2015\Projects\WebApplicationCMS\WebApplicationCMS\bin\WebApplicationCMS.dll
+c:\users\tanvir\documents\visual studio 2015\Projects\WebApplicationCMS\WebApplicationCMS\bin\WebApplicationCMS.pdb
+c:\users\tanvir\documents\visual studio 2015\Projects\WebApplicationCMS\WebApplicationCMS\bin\Microsoft.AI.Agent.Intercept.dll
+c:\users\tanvir\documents\visual studio 2015\Projects\WebApplicationCMS\WebApplicationCMS\bin\Microsoft.AI.DependencyCollector.dll
+c:\users\tanvir\documents\visual studio 2015\Projects\WebApplicationCMS\WebApplicationCMS\bin\Microsoft.AI.PerfCounterCollector.dll
+c:\users\tanvir\documents\visual studio 2015\Projects\WebApplicationCMS\WebApplicationCMS\bin\Microsoft.AI.ServerTelemetryChannel.dll
+c:\users\tanvir\documents\visual studio 2015\Projects\WebApplicationCMS\WebApplicationCMS\bin\Microsoft.AI.Web.dll
+c:\users\tanvir\documents\visual studio 2015\Projects\WebApplicationCMS\WebApplicationCMS\bin\Microsoft.AI.WindowsServer.dll
+c:\users\tanvir\documents\visual studio 2015\Projects\WebApplicationCMS\WebApplicationCMS\bin\Microsoft.ApplicationInsights.dll
+c:\users\tanvir\documents\visual studio 2015\Projects\WebApplicationCMS\WebApplicationCMS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\tanvir\documents\visual studio 2015\Projects\WebApplicationCMS\WebApplicationCMS\bin\Microsoft.AI.DependencyCollector.xml
+c:\users\tanvir\documents\visual studio 2015\Projects\WebApplicationCMS\WebApplicationCMS\bin\Microsoft.AI.ServerTelemetryChannel.xml
+c:\users\tanvir\documents\visual studio 2015\Projects\WebApplicationCMS\WebApplicationCMS\bin\Microsoft.AI.Web.xml
+c:\users\tanvir\documents\visual studio 2015\Projects\WebApplicationCMS\WebApplicationCMS\bin\Microsoft.AI.WindowsServer.xml
+c:\users\tanvir\documents\visual studio 2015\Projects\WebApplicationCMS\WebApplicationCMS\bin\Microsoft.ApplicationInsights.xml
+c:\users\tanvir\documents\visual studio 2015\Projects\WebApplicationCMS\WebApplicationCMS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\tanvir\documents\visual studio 2015\Projects\WebApplicationCMS\WebApplicationCMS\obj\Debug\WebApplicationCMS.csprojResolveAssemblyReference.cache
+c:\users\tanvir\documents\visual studio 2015\Projects\WebApplicationCMS\WebApplicationCMS\obj\Debug\WebApplicationCMS.dll
+c:\users\tanvir\documents\visual studio 2015\Projects\WebApplicationCMS\WebApplicationCMS\obj\Debug\WebApplicationCMS.pdb
+C:\Users\Tanvir\Documents\Visual Studio 2015\Projects\WebApplicationCMS\WebApplicationCMS\bin\AMCLBL.dll
+C:\Users\Tanvir\Documents\Visual Studio 2015\Projects\WebApplicationCMS\WebApplicationCMS\bin\AMCLCOMMON.dll
+C:\Users\Tanvir\Documents\Visual Studio 2015\Projects\WebApplicationCMS\WebApplicationCMS\bin\AMCLDLL.dll
+C:\Users\Tanvir\Documents\Visual Studio 2015\Projects\WebApplicationCMS\WebApplicationCMS\bin\AMCLBL.pdb
+C:\Users\Tanvir\Documents\Visual Studio 2015\Projects\WebApplicationCMS\WebApplicationCMS\bin\AMCLCOMMON.pdb
+C:\Users\Tanvir\Documents\Visual Studio 2015\Projects\WebApplicationCMS\WebApplicationCMS\bin\AMCLDLL.pdb
+C:\Users\Tanvir\documents\visual studio 2015\Projects\WebApplicationCMS\WebApplicationCMS\bin\CrystalDecisions.CrystalReports.Design.dll
+C:\Users\Tanvir\documents\visual studio 2015\Projects\WebApplicationCMS\WebApplicationCMS\bin\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\Tanvir\documents\visual studio 2015\Projects\WebApplicationCMS\WebApplicationCMS\bin\CrystalDecisions.ReportSource.dll
+C:\Users\Tanvir\documents\visual studio 2015\Projects\WebApplicationCMS\WebApplicationCMS\bin\CrystalDecisions.Shared.dll
+C:\Users\Tanvir\documents\visual studio 2015\Projects\WebApplicationCMS\WebApplicationCMS\bin\CrystalDecisions.Web.dll
+C:\Users\Tanvir\documents\visual studio 2015\Projects\WebApplicationCMS\WebApplicationCMS\bin\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\Tanvir\documents\visual studio 2015\Projects\WebApplicationCMS\WebApplicationCMS\bin\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\Tanvir\documents\visual studio 2015\Projects\WebApplicationCMS\WebApplicationCMS\bin\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\Tanvir\documents\visual studio 2015\Projects\WebApplicationCMS\WebApplicationCMS\bin\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\Tanvir\documents\visual studio 2015\Projects\WebApplicationCMS\WebApplicationCMS\bin\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\Tanvir\documents\visual studio 2015\Projects\WebApplicationCMS\WebApplicationCMS\bin\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\Tanvir\documents\visual studio 2015\Projects\WebApplicationCMS\WebApplicationCMS\bin\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\Tanvir\documents\visual studio 2015\Projects\WebApplicationCMS\WebApplicationCMS\bin\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\Tanvir\documents\visual studio 2015\Projects\WebApplicationCMS\WebApplicationCMS\bin\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\Tanvir\documents\visual studio 2015\Projects\WebApplicationCMS\WebApplicationCMS\bin\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\Tanvir\documents\visual studio 2015\Projects\WebApplicationCMS\WebApplicationCMS\bin\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\Tanvir\documents\visual studio 2015\Projects\WebApplicationCMS\WebApplicationCMS\bin\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\Tanvir\documents\visual studio 2015\Projects\WebApplicationCMS\WebApplicationCMS\bin\stdole.dll
+C:\Users\Tanvir\documents\visual studio 2015\Projects\WebApplicationCMS\WebApplicationCMS\bin\Newtonsoft.Json.dll
+C:\Users\Tanvir\documents\visual studio 2015\Projects\WebApplicationCMS\WebApplicationCMS\bin\Newtonsoft.Json.xml
+D:\CMS\WebApplicationCMS\WebApplicationCMS\bin\ApplicationInsights.config
+D:\CMS\WebApplicationCMS\WebApplicationCMS\bin\roslyn\csc.exe
+D:\CMS\WebApplicationCMS\WebApplicationCMS\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\CMS\WebApplicationCMS\WebApplicationCMS\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\CMS\WebApplicationCMS\WebApplicationCMS\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\CMS\WebApplicationCMS\WebApplicationCMS\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\CMS\WebApplicationCMS\WebApplicationCMS\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\CMS\WebApplicationCMS\WebApplicationCMS\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\CMS\WebApplicationCMS\WebApplicationCMS\bin\roslyn\System.Collections.Immutable.dll
+D:\CMS\WebApplicationCMS\WebApplicationCMS\bin\roslyn\System.Reflection.Metadata.dll
+D:\CMS\WebApplicationCMS\WebApplicationCMS\bin\roslyn\vbc.exe
+D:\CMS\WebApplicationCMS\WebApplicationCMS\bin\roslyn\VBCSCompiler.exe
+D:\CMS\WebApplicationCMS\WebApplicationCMS\bin\roslyn\VBCSCompiler.exe.config
+D:\CMS\WebApplicationCMS\WebApplicationCMS\bin\WebApplicationCMS.dll.config
+D:\CMS\WebApplicationCMS\WebApplicationCMS\bin\WebApplicationCMS.dll
+D:\CMS\WebApplicationCMS\WebApplicationCMS\bin\WebApplicationCMS.pdb
+D:\CMS\WebApplicationCMS\WebApplicationCMS\bin\AMCLBL.dll
+D:\CMS\WebApplicationCMS\WebApplicationCMS\bin\AMCLCOMMON.dll
+D:\CMS\WebApplicationCMS\WebApplicationCMS\bin\AMCLDLL.dll
+D:\CMS\WebApplicationCMS\WebApplicationCMS\bin\CrystalDecisions.CrystalReports.Design.dll
+D:\CMS\WebApplicationCMS\WebApplicationCMS\bin\CrystalDecisions.CrystalReports.Engine.dll
+D:\CMS\WebApplicationCMS\WebApplicationCMS\bin\CrystalDecisions.ReportSource.dll
+D:\CMS\WebApplicationCMS\WebApplicationCMS\bin\CrystalDecisions.Shared.dll
+D:\CMS\WebApplicationCMS\WebApplicationCMS\bin\CrystalDecisions.Web.dll
+D:\CMS\WebApplicationCMS\WebApplicationCMS\bin\Microsoft.AI.Agent.Intercept.dll
+D:\CMS\WebApplicationCMS\WebApplicationCMS\bin\Microsoft.AI.DependencyCollector.dll
+D:\CMS\WebApplicationCMS\WebApplicationCMS\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\CMS\WebApplicationCMS\WebApplicationCMS\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\CMS\WebApplicationCMS\WebApplicationCMS\bin\Microsoft.AI.Web.dll
+D:\CMS\WebApplicationCMS\WebApplicationCMS\bin\Microsoft.AI.WindowsServer.dll
+D:\CMS\WebApplicationCMS\WebApplicationCMS\bin\Microsoft.ApplicationInsights.dll
+D:\CMS\WebApplicationCMS\WebApplicationCMS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\CMS\WebApplicationCMS\WebApplicationCMS\bin\Newtonsoft.Json.dll
+D:\CMS\WebApplicationCMS\WebApplicationCMS\bin\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\CMS\WebApplicationCMS\WebApplicationCMS\bin\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\CMS\WebApplicationCMS\WebApplicationCMS\bin\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\CMS\WebApplicationCMS\WebApplicationCMS\bin\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\CMS\WebApplicationCMS\WebApplicationCMS\bin\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\CMS\WebApplicationCMS\WebApplicationCMS\bin\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\CMS\WebApplicationCMS\WebApplicationCMS\bin\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\CMS\WebApplicationCMS\WebApplicationCMS\bin\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\CMS\WebApplicationCMS\WebApplicationCMS\bin\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\CMS\WebApplicationCMS\WebApplicationCMS\bin\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\CMS\WebApplicationCMS\WebApplicationCMS\bin\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\CMS\WebApplicationCMS\WebApplicationCMS\bin\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\CMS\WebApplicationCMS\WebApplicationCMS\bin\stdole.dll
+D:\CMS\WebApplicationCMS\WebApplicationCMS\bin\AMCLBL.pdb
+D:\CMS\WebApplicationCMS\WebApplicationCMS\bin\AMCLCOMMON.pdb
+D:\CMS\WebApplicationCMS\WebApplicationCMS\bin\AMCLDLL.pdb
+D:\CMS\WebApplicationCMS\WebApplicationCMS\bin\Microsoft.AI.DependencyCollector.xml
+D:\CMS\WebApplicationCMS\WebApplicationCMS\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\CMS\WebApplicationCMS\WebApplicationCMS\bin\Microsoft.AI.Web.xml
+D:\CMS\WebApplicationCMS\WebApplicationCMS\bin\Microsoft.AI.WindowsServer.xml
+D:\CMS\WebApplicationCMS\WebApplicationCMS\bin\Microsoft.ApplicationInsights.xml
+D:\CMS\WebApplicationCMS\WebApplicationCMS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\CMS\WebApplicationCMS\WebApplicationCMS\bin\Newtonsoft.Json.xml
+D:\CMS\WebApplicationCMS\WebApplicationCMS\obj\Debug\WebApplicationCMS.csprojResolveAssemblyReference.cache
+D:\CMS\WebApplicationCMS\WebApplicationCMS\obj\Debug\WebApplicationCMS.dll
+D:\CMS\WebApplicationCMS\WebApplicationCMS\obj\Debug\WebApplicationCMS.pdb
+E:\CMS\WebApplicationCMS\WebApplicationCMS\bin\ApplicationInsights.config
+E:\CMS\WebApplicationCMS\WebApplicationCMS\bin\roslyn\csc.exe
+E:\CMS\WebApplicationCMS\WebApplicationCMS\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\CMS\WebApplicationCMS\WebApplicationCMS\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\CMS\WebApplicationCMS\WebApplicationCMS\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\CMS\WebApplicationCMS\WebApplicationCMS\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\CMS\WebApplicationCMS\WebApplicationCMS\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\CMS\WebApplicationCMS\WebApplicationCMS\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\CMS\WebApplicationCMS\WebApplicationCMS\bin\roslyn\System.Collections.Immutable.dll
+E:\CMS\WebApplicationCMS\WebApplicationCMS\bin\roslyn\System.Reflection.Metadata.dll
+E:\CMS\WebApplicationCMS\WebApplicationCMS\bin\roslyn\vbc.exe
+E:\CMS\WebApplicationCMS\WebApplicationCMS\bin\roslyn\VBCSCompiler.exe
+E:\CMS\WebApplicationCMS\WebApplicationCMS\bin\roslyn\VBCSCompiler.exe.config
+E:\CMS\WebApplicationCMS\WebApplicationCMS\bin\WebApplicationCMS.dll.config
+E:\CMS\WebApplicationCMS\WebApplicationCMS\bin\WebApplicationCMS.dll
+E:\CMS\WebApplicationCMS\WebApplicationCMS\bin\WebApplicationCMS.pdb
+E:\CMS\WebApplicationCMS\WebApplicationCMS\bin\AMCLBL.dll
+E:\CMS\WebApplicationCMS\WebApplicationCMS\bin\AMCLCOMMON.dll
+E:\CMS\WebApplicationCMS\WebApplicationCMS\bin\AMCLDLL.dll
+E:\CMS\WebApplicationCMS\WebApplicationCMS\bin\CrystalDecisions.CrystalReports.Design.dll
+E:\CMS\WebApplicationCMS\WebApplicationCMS\bin\CrystalDecisions.CrystalReports.Engine.dll
+E:\CMS\WebApplicationCMS\WebApplicationCMS\bin\CrystalDecisions.ReportSource.dll
+E:\CMS\WebApplicationCMS\WebApplicationCMS\bin\CrystalDecisions.Shared.dll
+E:\CMS\WebApplicationCMS\WebApplicationCMS\bin\CrystalDecisions.Web.dll
+E:\CMS\WebApplicationCMS\WebApplicationCMS\bin\Microsoft.AI.Agent.Intercept.dll
+E:\CMS\WebApplicationCMS\WebApplicationCMS\bin\Microsoft.AI.DependencyCollector.dll
+E:\CMS\WebApplicationCMS\WebApplicationCMS\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\CMS\WebApplicationCMS\WebApplicationCMS\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\CMS\WebApplicationCMS\WebApplicationCMS\bin\Microsoft.AI.Web.dll
+E:\CMS\WebApplicationCMS\WebApplicationCMS\bin\Microsoft.AI.WindowsServer.dll
+E:\CMS\WebApplicationCMS\WebApplicationCMS\bin\Microsoft.ApplicationInsights.dll
+E:\CMS\WebApplicationCMS\WebApplicationCMS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\CMS\WebApplicationCMS\WebApplicationCMS\bin\Newtonsoft.Json.dll
+E:\CMS\WebApplicationCMS\WebApplicationCMS\bin\CrystalDecisions.ReportAppServer.DataDefModel.dll
+E:\CMS\WebApplicationCMS\WebApplicationCMS\bin\CrystalDecisions.ReportAppServer.ClientDoc.dll
+E:\CMS\WebApplicationCMS\WebApplicationCMS\bin\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+E:\CMS\WebApplicationCMS\WebApplicationCMS\bin\CrystalDecisions.ReportAppServer.Controllers.dll
+E:\CMS\WebApplicationCMS\WebApplicationCMS\bin\CrystalDecisions.ReportAppServer.CommLayer.dll
+E:\CMS\WebApplicationCMS\WebApplicationCMS\bin\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+E:\CMS\WebApplicationCMS\WebApplicationCMS\bin\CrystalDecisions.ReportAppServer.Prompting.dll
+E:\CMS\WebApplicationCMS\WebApplicationCMS\bin\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+E:\CMS\WebApplicationCMS\WebApplicationCMS\bin\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+E:\CMS\WebApplicationCMS\WebApplicationCMS\bin\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+E:\CMS\WebApplicationCMS\WebApplicationCMS\bin\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+E:\CMS\WebApplicationCMS\WebApplicationCMS\bin\CrystalDecisions.ReportAppServer.CommonControls.dll
+E:\CMS\WebApplicationCMS\WebApplicationCMS\bin\stdole.dll
+E:\CMS\WebApplicationCMS\WebApplicationCMS\bin\AMCLBL.pdb
+E:\CMS\WebApplicationCMS\WebApplicationCMS\bin\AMCLCOMMON.pdb
+E:\CMS\WebApplicationCMS\WebApplicationCMS\bin\AMCLDLL.pdb
+E:\CMS\WebApplicationCMS\WebApplicationCMS\bin\Microsoft.AI.DependencyCollector.xml
+E:\CMS\WebApplicationCMS\WebApplicationCMS\bin\Microsoft.AI.ServerTelemetryChannel.xml
+E:\CMS\WebApplicationCMS\WebApplicationCMS\bin\Microsoft.AI.Web.xml
+E:\CMS\WebApplicationCMS\WebApplicationCMS\bin\Microsoft.AI.WindowsServer.xml
+E:\CMS\WebApplicationCMS\WebApplicationCMS\bin\Microsoft.ApplicationInsights.xml
+E:\CMS\WebApplicationCMS\WebApplicationCMS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\CMS\WebApplicationCMS\WebApplicationCMS\bin\Newtonsoft.Json.xml
+E:\CMS\WebApplicationCMS\WebApplicationCMS\obj\Debug\WebApplicationCMS.csprojResolveAssemblyReference.cache
+E:\CMS\WebApplicationCMS\WebApplicationCMS\obj\Debug\WebApplicationCMS.dll
+E:\CMS\WebApplicationCMS\WebApplicationCMS\obj\Debug\WebApplicationCMS.pdb

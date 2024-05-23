@@ -1,0 +1,28 @@
+<?xml version="1.0" standalone="yes"?>
+<xs:schema id="NewDataSet" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+  <xs:element name="NewDataSet" msdata:IsDataSet="true" msdata:MainDataTable="ComplainResister" msdata:UseCurrentLocale="true">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="ComplainResister">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="COMPLAIN_ID" type="xs:decimal" minOccurs="0" />
+              <xs:element name="SERVICE_NAME" type="xs:string" minOccurs="0" />
+              <xs:element name="SERVICE_SUB_NAME" type="xs:string" minOccurs="0" />
+              <xs:element name="BRANCH_NAME" type="xs:string" minOccurs="0" />
+              <xs:element name="COMPLAIN_SUBJECT" type="xs:string" minOccurs="0" />
+              <xs:element name="COMPLAIN_DETAILS" type="xs:string" minOccurs="0" />
+              <xs:element name="STATUS" type="xs:string" minOccurs="0" />
+              <xs:element name="REMARKS" type="xs:string" minOccurs="0" />
+              <xs:element name="COMPLIAN_DATE" type="xs:dateTime" minOccurs="0" />
+              <xs:element name="URGENCY" type="xs:string" minOccurs="0" />
+              <xs:element name="ENTRY_DATETIME" type="xs:dateTime" minOccurs="0" />
+              <xs:element name="COMPLAIN_TYPE_ID" type="xs:decimal" minOccurs="0" />
+              <xs:element name="USER_NAME" type="xs:string" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>
